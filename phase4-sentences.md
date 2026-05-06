@@ -297,8 +297,8 @@ Do this for 10 minutes daily. Within weeks, the grammar of the Quran will begin 
 
 > Arabic has only two sentence types: the Jumla Ismiyya (Subject + Predicate, both in Raf') and the Jumla Fi'liyya (Verb + Doer in Raf' + Object in Nasb). Every ayah in the Quran is built from one or both of these structures, combined with the fragments you learned in Phase 3. You now have the complete toolkit to begin understanding the Quran in its original language.
 
-**Previous:** [Part 2 — Sarf: Roots, Patterns & Conjugation](./part2-sarf.md)
-**Return to:** [Curriculum Overview](./00-overview.md)
+**Previous:** [Phase 3 — Fragments](./phase3-fragments.md)
+**Return to:** [Curriculum Overview](./README.md)
 
 ---
 

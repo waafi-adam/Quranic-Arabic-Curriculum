@@ -23,13 +23,13 @@ This curriculum is designed so that a student can look at any ayah and answer tw
 
 | Chapter | Title | Focus |
 |---------|-------|-------|
-| [Sarf](./part2-sarf.md) | Roots, Patterns & Conjugation | The 3-letter root system, verb families, sarf tables |
+| [Phase 5](./phase5-sarf.md) | Roots, Patterns & Conjugation | The 3-letter root system, verb families, sarf tables |
 
 ### Part 3: The Sentence
 
 | Chapter | Title | Focus |
 |---------|-------|-------|
-| [Sentences](./part3-sentences.md) | Jumla Ismiyya & Fi'liyya | Building and analyzing full sentences |
+| [Phase 4](./phase4-sentences.md) | Jumla Ismiyya & Fi'liyya | Building and analyzing full sentences |
 
 ---
 

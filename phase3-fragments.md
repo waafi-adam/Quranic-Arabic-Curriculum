@@ -238,4 +238,4 @@ Using the vocabulary you know, create three examples of each fragment type. Then
 > Fragments are how Arabic words form relationships. Master the four fragment types — Idhafah, Jarr-Majroor, Harf of Nasb + Ism, and Mawsoof-Sifah — and you have the tools to connect any two words in the Quran.
 
 **Previous:** [Phase 2 — The Four Properties of the Ism](./phase2-ism-properties.md)
-**Next:** [Part 2 — Sarf: Roots, Patterns & Conjugation](./part2-sarf.md)
+**Next:** [Phase 4 — The Sentence](./phase4-sentences.md)

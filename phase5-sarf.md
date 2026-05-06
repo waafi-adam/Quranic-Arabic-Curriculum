@@ -295,4 +295,4 @@ Given the root ح-م-د (praise), build:
 > Sarf is the key that unlocks the vocabulary of the Quran. When you know a word's root and its pattern, you don't just understand one word — you understand an entire family of words. A student of Sarf can encounter a new word and deduce its meaning from its structure.
 
 **Previous:** [Phase 3 — Fragments](./phase3-fragments.md)
-**Next:** [Part 3 — The Sentence](./part3-sentences.md)
+**Next:** [Phase 4 — The Sentence](./phase4-sentences.md)
